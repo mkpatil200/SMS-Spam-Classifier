@@ -35,3 +35,5 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 ## Best Accuracy: 97.29
 
 ## Best Precision: 1.0
+
+https://user-images.githubusercontent.com/85861395/144699307-7c698814-8beb-46b2-8352-5e177b1e0492.mp4
